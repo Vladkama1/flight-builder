@@ -21,6 +21,6 @@ public class Main {
         System.out.println("Общее время, проведённое на земле превышает два часа - "
                 + filteredFlightsByGroundTimeMoreThanTwoHours);
 
-        System.out.println("Исходные данные - " + flights);
+        System.out.println("Исходные данные равняются - " + flights);
     }
 }
